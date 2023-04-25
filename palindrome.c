@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main(){
+    // 12321
     int n ,s=0, a ,r;
     printf ("enter the value of n:");
     scanf ("%d",&n);
